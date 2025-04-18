@@ -19837,6 +19837,13 @@
 			"github": "ApryllForever/PolyamorySweetWedding"
 		},
 		{
+			"name": "PolyCarts",
+			"author": "Polydot",
+			"id": "Polydot.PolyCarts",
+			"nexus": 23311,
+			"github": "https://github.com/Polydot/PolyCarts"
+		},
+		{
 			"name": "Polygamy",
 			"author": "bwdy",
 			"id": "bwdy.polygamy",
